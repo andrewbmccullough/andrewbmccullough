@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Andrew
 
-### 👨🏻‍💻 About Me
+### 👨 About Me
 
 💡 I am a hardworking and collaborative individual that loves to learn new things  
 💻 I’m currently working as a Firmware Engineer at Micron Technology  
