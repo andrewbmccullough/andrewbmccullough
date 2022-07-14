@@ -5,7 +5,7 @@
 💡 I am a hardworking and collaborative individual that loves to learn new things  
 💻 I’m currently working as a Firmware Engineer at Micron Technology  
 🌱 I’m interested in learning all things software/firmware and creating quality code  
-📄 Please take a look at my [Resume](./Resume.pdf) for more info about me  
+📄 Please take a look at my [Resume](./Resume.pdf){target="_blank"} for more info about me  
 
 ### 🛠 Skills
 <!-- https://github.com/Ileriayo/markdown-badges -->
