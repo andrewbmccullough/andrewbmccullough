@@ -3,7 +3,7 @@
 ### 👨 About Me
 
 💡 I am a hard-working and collaborative individual that loves to learn new things  
-💻 I’m currently working as a Software Engineer at Intel
+💻 I’m currently working as a Software Engineer at Intel  
 🌱 I’m interested in learning all things software & hardware and creating quality code  
 📄 Please take a look at my [Resume](./Resume.pdf) for more info about me  
 
